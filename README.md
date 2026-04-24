@@ -1,11 +1,28 @@
 # DIU Smart City
 
+
+
 **DIU Smart City** is a 3D computer graphics project developed using **C++**, **OpenGL**, and **GLUT**.
 The project simulates a smart city/university campus environment inspired by Daffodil International University, featuring buildings, roads, transportation, and animated objects.
 
 This project demonstrates core computer graphics concepts such as 3D modeling, transformations, animation, lighting, and camera control.
 
+
+
 ---
+
+## Output Screenshots
+
+
+![Output 1](output/output1.png)
+
+![Output 2](output/output2.png)
+
+
+![Output 3](output/output3.png)
+
+---
+
 
 ## Features
 
@@ -61,6 +78,7 @@ This project demonstrates core computer graphics concepts such as 3D modeling, t
 
 ## Project Structure
 
+```
 DIU-SMART-CITY/
 │
 ├── main.cpp
@@ -69,29 +87,13 @@ DIU-SMART-CITY/
 ├── output/
 │   ├── output1.png
 │   ├── output2.png
-│   ├── output3.png
+│   └── output3.png
+```
 
 
----
-
-## Output Screenshots
-
-
-
-(output/output1.png)
-
-
-
-(output/output2.png)
-
-
-
-(output/output3.png)
-
----
 
 ## Demo Video
-
+A complete demonstration of the DIU Smart City project can be viewed here:
 (https://drive.google.com/file/d/1ChrRyBLXfwFWnoS4cZSzTzUNLaKBBHF6/view?usp=drive_link)
 
 ---
